@@ -169,14 +169,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=saintsfrow&theme=material-palenight" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Saintsfrow.Saintsfrow&right_color=rebeccapurple&left_text=Profile%20visitors"  />
 </div>
