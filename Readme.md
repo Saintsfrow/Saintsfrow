@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- just another tech enthusiast with minimal programming knowledge<br>- a B.Tech. Graduate in Mechatronics Engineering<br>- passionate about robotics, artificial intelligence and autonomous navigation<br>- constantly learning and growing in my field of study</p>
+<p align="left">- just another tech enthusiast with minimal programming knowledge<br>- a B.Tech. undergraduate in Mechatronics Engineering<br>- passionate about robotics, artificial intelligence and autonomous navigation<br>- constantly learning and growing in my field of study</p>
 
 ###
 
