@@ -152,21 +152,3 @@
 <img src="https://raw.githubusercontent.com/Saintsfrow/Saintsfrow/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<h2 align="left">// MY WEIRD TASTE IN MUSIC //</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/41j20olt6oe9zrqjchsfhwpkh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=41j20olt6oe9zrqjchsfhwpkh&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saintsfrow.Saintsfrow&right_color=rebeccapurple&left_text=Profile%20visitors"  />
-</div>
-
-###
