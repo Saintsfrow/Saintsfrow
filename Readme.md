@@ -94,10 +94,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG16dmp5bGV3NnV5d2hodzBjMTZvZjR3NzN5anJ0MzdyZ2U3ODlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLW9YEaSBfBMt79fm4/giphy.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.behance.net/santhosparthib" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
